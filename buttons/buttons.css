@@ -1,0 +1,8 @@
+.button {
+        width: 30px
+}
+
+.button:hover {
+        /* background-color: red; */
+        cursor: pointer;
+}
